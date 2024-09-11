@@ -9,7 +9,7 @@ Hi there! 👋 I'm Benjamín Tello<br>I'm a Civil Engineer in Computer Science w
 - **Data Science:** Enjoying diving into data and uncovering interesting insights.
 - **Web Development:** Passionate about creating and designing cool websites and web applications.
 - **Drawing & Painting:** Finding joy and relaxation in sketching and painting; it’s a great way to unwind and let my creativity flow.
-- **Music:** Playing guitar and discovering new music genres keeps me inspired and relaxed.
+- **Series & Movies:** I’m a big fan of watching series and movies, with favorites like *Better Call Saul*, *Dr. House*, and *Slam Dunk*.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/benjamin-christian-tello-correa-56a956234/) 
